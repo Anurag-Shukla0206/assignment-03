@@ -1,6 +1,6 @@
-
-# Welcome to readme-md
-## Project Title
+            
+# Welcome to readme-md  
+##  🏠 Homepage 
 
 Cli that generate beautifu readme.md file
 
@@ -36,7 +36,7 @@ To run tests, run the following command
 - Github link - [@anuragshukla](https://www.github.com/Anurag-Shukla0206)
 
 
-## Contributing
+## 🤝Contributing
 
 Contributions are always welcome!
 
@@ -47,7 +47,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Show your Support
 
-For support, email anurag.shukla0206@gmail.com .
+For support, ⭐ email anurag.shukla0206@gmail.com ❤.
 
 
 ## License
